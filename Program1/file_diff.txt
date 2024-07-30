@@ -1,0 +1,16 @@
+
+#Object Files
+M src/objects/Event.object
+A src/objects/Trading_Event__c.object
+R src/objects/ActiveScratchOrg.object
+
+# Profile Files 
+M src/profiles/Admin.profile
+
+#Report Files
+D src/reports/CACI_Imports/All_Closed.report
+
+
+#Error Files
+X
+D This is a error line
